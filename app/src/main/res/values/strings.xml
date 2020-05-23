@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple FTP/SFTP Uploader</string>
+    <string-array name="Protocols">
+        <item>FTP</item>
+        <item>SFTP</item>
+    </string-array>
+
+</resources>
